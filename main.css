@@ -24,7 +24,6 @@ div {
   
 #green {
   border-top-color: #00bc3f;
-  background-color: blue;
 }  
 
 #blue {
@@ -33,7 +32,9 @@ div {
   
 #indigo {
   border-top-color: #8a2be2;
+}
 
 #violet {
   background-color: #d300c9;
+  background-color: blue
 }
